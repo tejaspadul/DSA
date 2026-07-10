@@ -23,6 +23,8 @@ public class Input {
             System.out.print(+arr[i] + " ");
         }
 
+
+        
         // Good practice to close scanner resource
         sc.close();
     }
